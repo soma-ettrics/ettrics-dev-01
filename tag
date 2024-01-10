@@ -4,7 +4,7 @@
    -->
  
 <!-- Netlify -->
-<script src="YOUR LINK HERE"></script>
+<script src="https://PROJECT-NAME.netlify.app/main.js"></script>
 
 OR
 
