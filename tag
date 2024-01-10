@@ -5,3 +5,8 @@
  
 <!-- Netlify -->
 <script src="YOUR LINK HERE"></script>
+
+OR
+
+<!-- Hosted file -->
+<script src="https://cdn.jsdelivr.net/gh/USER/REPONAME/src/main.js"></script>
