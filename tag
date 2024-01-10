@@ -9,4 +9,4 @@
 OR
 
 <!-- Hosted file -->
-<script src="https://cdn.jsdelivr.net/gh/USER/REPONAME/src/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/USER/REPONAME/dist/main.js"></script>
